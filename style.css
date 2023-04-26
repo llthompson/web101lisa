@@ -1,0 +1,33 @@
+h1 {
+    background-color: #FF1493;
+    color:#4B0082;
+    height: 300px;
+    width: 300px;
+    margin: 10% auto;
+    padding: 50% auto;
+    padding-top: 25% auto;
+    border: 10px solid #4B0082;
+    border-radius: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Comfortaa', cursive;
+    
+  }
+  h2 {
+    background-color: #FF1493;
+    color:#4B0082;
+    height: 150px;
+    width: 150px;
+    margin: 10% auto;
+    padding: 50% auto;
+    padding-top: 25% auto;
+    border: 10px solid #4B0082;
+    border-radius: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Comfortaa', cursive;
+  }
